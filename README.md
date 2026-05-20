@@ -54,18 +54,6 @@ Passionate Full Stack Developer with knowledge of modern web technologies and ba
 - React Advanced Concepts
 - DevOps Basics
 
----
-
-## 🔥 Projects
-### 🛒 E-Commerce Website
-Built using HTML, CSS, JavaScript, and React.
-
-### 🏦 Bank Management System
-Java-based banking application with:
-- File Handling
-- Custom Exceptions
-- Validations
-- Menu Driven Operations
 
 ### 🔐 JWT Authentication System
 Worked on token generation, expiration handling, Redis cache concepts, authentication & authorization.
@@ -73,7 +61,7 @@ Worked on token generation, expiration handling, Redis cache concepts, authentic
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/rajnishchouhanMorys
+- GitHub: https://github.com/rajnishchouhanvionsys
 
 ---
 
